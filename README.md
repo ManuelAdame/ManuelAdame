@@ -48,15 +48,15 @@ Currently looking for **Software Engineering, Data Science, or Backend Developme
 ### Languages
 
 **Spanish**:
-*Level*: Native
+* *Level*: Native
 
 **English**:
-*Level*: Advance
-*Qualification*: C1 Cambridge
+* *Level*: Advance
+* *Qualification*: C1 Cambridge
 
 **German**:
-*Level*: Intermediate
-*Qualification*: B1 Goethe-Institut
+* *Level*: Intermediate
+* *Qualification*: B1 Goethe-Institut
 
 ---
 
